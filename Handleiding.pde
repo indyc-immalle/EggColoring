@@ -1,0 +1,4 @@
+enum Handleiding
+{
+  drawing,
+  }
